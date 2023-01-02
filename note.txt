@@ -4,3 +4,5 @@ on brave put ipfs://  + CID
 on other browser ipfs.io/ipfs/   + CID
 
 easy way to deploy on ipfs   -  use fleed.co
+my deployed site
+https://broken-queen-4448.on.fleek.co
