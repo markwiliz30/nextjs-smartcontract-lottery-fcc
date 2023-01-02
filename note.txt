@@ -1,0 +1,6 @@
+download ipfs at ipfs.io
+
+on brave put ipfs://  + CID
+on other browser ipfs.io/ipfs/   + CID
+
+easy way to deploy on ipfs   -  use fleed.co
